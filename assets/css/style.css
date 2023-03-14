@@ -17,7 +17,7 @@ h5 {
 }
 
 .card {
-    margin: 8% auto;
+    margin: 10% auto;
     border-radius: 20px;
     /* border: 1px solid purple; */
     border: none;
@@ -26,7 +26,7 @@ h5 {
 }
 
 .card-img-top {
-    width: 250px;
+    width: 280px;
     margin: auto;
     margin-top: 15px;
     border-radius: 10px;
